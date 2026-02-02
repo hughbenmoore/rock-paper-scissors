@@ -43,3 +43,5 @@ function playGame() {
 	}
 	console.log("Final Score - Human: " + humanScore + " Computer: " + computerScore);
 }
+
+playGame();
